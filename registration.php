@@ -30,7 +30,7 @@ and open the template in the editor.
   Password:<br>
   <input type="text" name="password">
   <br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Register">
  <br>
 </fieldset>
 </form>
