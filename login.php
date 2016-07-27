@@ -17,7 +17,17 @@ and open the template in the editor.
   <br>
   Password:<br>
   <input type="text" name="password">
+  <script>
+function myFunction() {
+    var x = document.getElementById("demo");
+    x.style.fontSize = "25px"; 
+    x.style.color = "red"; 
+}
+</script>
+
+<button onclick="myFunction()">Login</button>
 </form>
+        
        
     </body>
 </html>
