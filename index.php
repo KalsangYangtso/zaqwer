@@ -26,8 +26,6 @@ and open the template in the editor.
   Password:<br>
   <input type="text" name="password">
 </form>
-        <?php
-        // put your code here
-        ?>
+       
     </body>
 </html>
