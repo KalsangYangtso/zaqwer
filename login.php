@@ -10,22 +10,19 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-      <form>
-   
+      <form action="action_page.php"  method="get">
+   <fieldset>
+    <legend>Login</legend>
  UserName:<br>
   <input type="text" name="username">
   <br>
   Password:<br>
   <input type="text" name="password">
-  <script>
-function myFunction() {
-    var x = document.getElementById("demo");
-    x.style.fontSize = "25px"; 
-    x.style.color = "red"; 
-}
-</script>
+  <br>
 
-<button onclick="myFunction()">Login</button>
+ <input type="submit" value="Login">
+
+   </fieldset>
 </form>
         
        

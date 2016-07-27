@@ -10,12 +10,16 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-      <form>
+        
+      <form action="action_page.php" method="post"> 
+           <fieldset>
+    <legend>Sign Up</legend>
    First name:<br>
   <input type="text" name="firstname">
   <br>
   Last name:<br>
   <input type="text" name="lastname">
+  <br>
   Email :<br>
   <input type="text" name="username">
   <br>
@@ -25,17 +29,12 @@ and open the template in the editor.
   <br>
   Password:<br>
   <input type="text" name="password">
-
-<script>
-function myFunction() {
-    var x = document.getElementById("demo");
-    x.style.fontSize = "25px"; 
-    x.style.color = "red"; 
-}
-</script>
-
-<button onclick="myFunction()">Submit</button>
+  <br>
+  <input type="submit" value="Submit">
+ <br>
+</fieldset>
 </form>
-       
+        <p>Already have an account?</p>
+        <a href="login.php">Click Here</a>
     </body>
 </html>
