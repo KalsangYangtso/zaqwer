@@ -41,6 +41,10 @@ and open the template in the editor.
   Card No:<br>
   <input type="text" name="cardno">
   <br>
+    CVC No:<br>
+  <input type="text" name="cvcno">
+  <br>
+  
      </fieldset>
     <br>
    <fieldset>
