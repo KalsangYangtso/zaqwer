@@ -34,6 +34,15 @@ and open the template in the editor.
   <br>
   </fieldset>
     <br>
+     <fieldset>
+        
+    <legend>Credit Card Info</legend>
+     <br>
+  Card No:<br>
+  <input type="text" name="cardno">
+  <br>
+     </fieldset>
+    <br>
    <fieldset>
         
     <legend>Billing Address</legend>
