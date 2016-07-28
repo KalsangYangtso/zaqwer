@@ -14,6 +14,8 @@ and open the template in the editor.
       <form action="action_page.php" method="post"> 
            <fieldset>
     <legend>Sign Up</legend>
+        <fieldset>
+    <legend>Personal Information</legend>
    First name:<br>
   <input type="text" name="firstname">
   <br>
@@ -30,7 +32,10 @@ and open the template in the editor.
   Password:<br>
   <input type="text" name="password">
   <br>
+  </fieldset>
+    <br>
    <fieldset>
+        
     <legend>Billing Address</legend>
      <br>
   Building No:<br>
@@ -54,6 +59,7 @@ and open the template in the editor.
   <input type="text" name="state">
   <br>
   </fieldset>
+  <br>
      <fieldset>
     <legend>Shipping Address</legend>
      <br>
