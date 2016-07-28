@@ -14,8 +14,10 @@ and open the template in the editor.
       <form action="action_page.php" method="post"> 
            <fieldset>
     <legend>Sign Up</legend>
+    <br>
         <fieldset>
     <legend>Personal Information</legend>
+    <br>
    First name:<br>
   <input type="text" name="firstname">
   <br>
