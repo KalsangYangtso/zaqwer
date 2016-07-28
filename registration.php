@@ -30,8 +30,57 @@ and open the template in the editor.
   Password:<br>
   <input type="text" name="password">
   <br>
+   <fieldset>
+    <legend>Billing Address</legend>
+     <br>
+  Building No:<br>
+  <input type="text" name="buildingno">
+  <br>
+   
+  Apartment No:<br>
+  <input type="text" name="apartmentno">
+  <br>
+
+  Zip code:<br>
+  <input type="text" name="zipcode">
+  <br>
+   Street/ Avenue:<br>
+  <input type="text" name="street/avenue">
+  <br>
+  City:<br>
+  <input type="text" name="city">
+  <br>
+   State:<br>
+  <input type="text" name="state">
+  <br>
+  </fieldset>
+     <fieldset>
+    <legend>Shipping Address</legend>
+     <br>
+  Building No:<br>
+  <input type="text" name="buildingno">
+  <br>
+   
+  Apartment No:<br>
+  <input type="text" name="apartmentno">
+  <br>
+
+  Zip code:<br>
+  <input type="text" name="zipcode">
+  <br>
+   Street/ Avenue:<br>
+  <input type="text" name="street/avenue">
+  <br>
+  City:<br>
+  <input type="text" name="city">
+  <br>
+   State:<br>
+  <input type="text" name="state">
+  <br>
+  </fieldset>
   <input type="submit" value="Register">
  <br>
+ 
 </fieldset>
 </form>
         <p>Already have an account?</p>
