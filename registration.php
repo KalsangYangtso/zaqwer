@@ -83,12 +83,15 @@ and open the template in the editor.
    State:<br>
   <input type="text" name="state">
   <br>
+
   </fieldset>
+    <br>
   <input type="submit" value="Register">
  <br>
  
 </fieldset>
 </form>
+        <br>
         <p>Already have an account?</p>
         <a href="login.php">Click Here</a>
     </body>
