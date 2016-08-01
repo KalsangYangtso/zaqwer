@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-      <form action="laction_page.php"  method="get">
+      <form action="welcome5.php"  method="get">
    <fieldset>
     <legend>Login</legend>
  UserName:<br>

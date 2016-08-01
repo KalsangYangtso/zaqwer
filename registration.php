@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         
-      <form action="action_page.php" method="post"> 
+      <form action="welcome5.php" method="post"> 
            <fieldset>
     <legend>Sign Up</legend>
     <br>

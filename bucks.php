@@ -10,8 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-  
-   
-          <h4>Login Confirmed</h4>
+        mysqli_connect(hostname, username, password)
+ $link = mysqli_connect(
     </body>
 </html>
