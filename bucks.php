@@ -10,7 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        mysqli_connect(hostname, username, password)
- $link = mysqli_connect(
+        <?php
+       
+    $link = mysqli_connect('phpmyadmin','kay','dtycts16');
+         ?>
     </body>
 </html>

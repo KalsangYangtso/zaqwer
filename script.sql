@@ -2,7 +2,7 @@
 drop database  if exists bookazon;
 create database bookazon;
 
-use  bookazon ;
+use  database bookazon ;
 
 
 CREATE TABLE CUSTOMER
