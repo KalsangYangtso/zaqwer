@@ -13,6 +13,12 @@ and open the template in the editor.
         <?php
        
     $link = mysqli_connect('phpmyadmin','kay','dtycts16');
+    if(!$link)
+    {
+        $output='Unable to connect to the Database Server.';
+        include'output.html.php';
+        exit();
+    }
          ?>
     </body>
 </html>
