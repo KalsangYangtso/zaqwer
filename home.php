@@ -13,7 +13,7 @@ and open the template in the editor.
         <h2>Welcome to Bookazon</h2>
         <a href="index.php">Home</a>
         <a href="login.php">Login</a>
-        <a href="registration.php">Sign Up</a>
+        <a href="form.html.php">Sign Up</a>
         <a href="cart.php">Cart</a>
         <a href="shop.php">Shop</a>
          <a href="sale.php">Sale</a>
