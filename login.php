@@ -19,6 +19,7 @@ and open the template in the editor.
   Password:<br>
   <input type="text" name="password">
   <br>
+   <input type="submit" value="Login">
         <?php
         $link = mysqli_connect('localhost', 'kay', 'dtycts16');
 
@@ -51,7 +52,7 @@ and open the template in the editor.
     
         include 'output.html.php';
         ?>
- <input type="submit" value="Login">
+
 
    </fieldset>
 </form>
