@@ -48,7 +48,7 @@
     <?php endif; ?>
     <form action="?" method="post">
       <p>
-        <a href="?">Continue shopping</a> or
+          <a href="home.php">Continue shopping</a> or
         <input type="submit" name="action" value="Empty cart"/>
       </p>
     </form>
