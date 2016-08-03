@@ -19,7 +19,6 @@ and open the template in the editor.
   Password:<br>
   <input type="text" name="password">
   <br>
-   <input type="submit" value="Login">
         <?php
         $link = mysqli_connect('localhost', 'kay', 'dtycts16');
 
